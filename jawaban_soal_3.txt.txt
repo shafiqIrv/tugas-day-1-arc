@@ -1,0 +1,5 @@
+Fork dan pull request adalah fitur yang digunakan untuk kolaborasi dalam pengembangan software
+
+Fork adalah tindakan membuat salinan dari repositori seseorang ke repositori milik sendiri. Hal ini memungkinkan pengguna untuk bekerja pada proyek tanpa harus memiliki izin langsung untuk melakukan perubahan langsung ke repositori asli. Ketika melakukan fork, pengguna membuat salinan independen dari repositori asli, yang kemudian dapat dimodifikasi, ditambahkan fitur baru, atau memerbaiki masalah tanpa mempengaruhi repositori asli. 
+
+Pull request adalah permintaan untuk menggabungkan perubahan yang dibuat di dalam fork pengguna ke repositori asli. Setelah pengguna melakukan perubahan pada fork-nya dan merasa yakin untuk digabungkan ke repositori asli, pengguna dapat melakukan pull request. Dalam pull request, pengguna dapat menjelaskan perubahan yang dibuat dan alasannya. Kemudian, pemilik repositori asli dapat meninjau perubahan tersebut, memberikan masukan, dan memutuskan apakah akan menggabungkan perubahan tersebut ke repositori asli atau tidak.
